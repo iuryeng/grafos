@@ -7,13 +7,7 @@ Este notebook abrange o processamento de funções sujeridas nas atividades do r
 
 # 1. Grafo da Paraíba
 
-
 ![alt text](image/grafoPb.png "Grafo da Paraíba")
-
-
-
-
-
 
 No exemplo acima, os vértices representam cidades e as arestas indicam se é possível chegar a outra cidade por uma estrada.
 Dessa forma, esse grafo pode ser escrito da seguinte forma:
@@ -39,7 +33,6 @@ g_pb = Grafo(['J', 'C', 'E', 'P', 'M', 'T', 'Z'],
              {'a1':'J-C', 'a2':'C-E', 'a3':'C-E', 'a4':'C-P', 'a5':'C-P', 'a6':'C-M', 'a7':'C-T', 'a8':'M-T', 'a9':'T-Z'})
 
 ```
-
 
 ```python
 # exiba o grafo construido
@@ -90,7 +83,6 @@ plt.show()
 
 ```
 
-
 ![png](output_9_0.png)
 
 
@@ -125,7 +117,6 @@ def vertices_nao_adjacentes(self):
 # Imprima os vertices não adjacentes do grafo
 print(vertices_nao_adjacentes(g_pb))
 ```
-
      
     J-E
     J-P
