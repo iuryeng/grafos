@@ -6,7 +6,7 @@
 # Este arquivo abrange o processamento de funções sujeridas nas atividades do roteiro 1 da
 #disciplina teoria dos grafos do curso de engenharia da computação do Instituto Federal de Ciências e Tecnologia da Paraíba - IFPB.
 #A partir da representação de um grafo contruido sob a pespectiva do mapa da Paraíba são apresentadas instruções pertinentes à teoria 
-#dos grafos. Outrossim é a utilização da biblioteca networkX para exibir o desenho do gráfo e assim melhor favorecer o entendimento 
+#dos grafos. Outrossim, é a utilização da biblioteca networkX para exibir o desenho do gráfo e assim melhor favorecer o entendimento 
 #a paritr de uma representação geometrica.
 
 # # 2. Construindo o grafo da Paraíba 
